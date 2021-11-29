@@ -8,7 +8,7 @@ GO
 SET QUOTED_IDENTIFIER ON
 GO
 
-/** This is supposed to strip HTML tags from a column   **/
+/** This strips HTML tags from a column   **/
 
 
 
